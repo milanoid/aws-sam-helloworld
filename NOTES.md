@@ -65,3 +65,9 @@ x-amzn-RequestId: 1acfaa63-dc40-401f-95c4-0a26e7cfef13
     "message": "hello world"
 }
 ```
+
+# Cleanup
+
+Remove it by deleting the AWS CloudFormation stack either manually in AWS Management Console or by AWS CLI command:
+
+`aws cloudformation delete-stack --stack-name sam-app --region eu-central-1`
