@@ -1,5 +1,7 @@
 # Hello world SAM application
 
+My notes based on [tutorial](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html). Creates AWS SAM "Hello World" app. Uses AWS Lambda, API Gateway and S3.
+
 ## Yak shaving
 
 - [AWS account](https://aws.amazon.com/console/)
